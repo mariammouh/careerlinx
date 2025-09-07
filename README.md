@@ -1,6 +1,6 @@
 # CareerLinx 🚀
 ### *Connecting Students to Their Future Careers*
-![SoloTrack logo](logo 2.jpeg)
+![SoloTrack logo](Logol.jpeg)
 > A revolutionary web platform bridging the gap between students, schools, and companies in Morocco's educational landscape.
 
 ---
